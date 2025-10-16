@@ -1,7 +1,7 @@
 # Shalini Kumari  
 📍 Ranchi, Jharkhand / Bolpur , West Bengal| 📧 shalinikumari37090@gmail.com.com | 📞 +91-8292155978
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/shalinikumari37090-source)
-🔗 [GitHub](https://github.com/shalinikumari37090-source) | 💼 Aspiring Data Scientist | Fast Learner | Dashboard Designer
+| 💼 Aspiring Data Scientist | Fast Learner | Dashboard Designer
 
 ---
 
@@ -61,6 +61,8 @@ Graduation completed : 2024
 
 **Freelance Data Analyst & Contributor**  
 While I may not have formal work experience yet, I bring a strong foundation in data analysis, Python programming, and dashboard design—built through hands-on projects and self-driven learning. I’m eager to apply my skills in real-world settings, collaborate with teams, and grow through meaningful challenges. Every opportunity is a chance to learn, contribute, and evolve into the data professional I aspire to be.
+
+[![Internship Ready](https://img.shields.io/badge/Internship-Ready-brightgreen)](https://github.com/shalinikumari37090-source/resume)
 
 ---
 
