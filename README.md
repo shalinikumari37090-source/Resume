@@ -1,3 +1,7 @@
+[![View Resume](https://img.shields.io/badge/View-Resume-blue)](https://github.com/shalinikumari37090-source/resume)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/shalinikumari37090-source)
+[![Internship Ready](https://img.shields.io/badge/Internship-Ready-brightgreen)](https://github.com/shalinikumari37090-source/resume)
+
 # Shalini Kumari  
 📍 Ranchi, Jharkhand / Bolpur , West Bengal| 📧 shalinikumari37090@gmail.com.com | 📞 +91-8292155978
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/shalinikumari37090-source)
