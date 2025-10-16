@@ -22,17 +22,25 @@ Enthusiastic and detail-oriented data analyst with hands-on experience in Python
 
 ## 📊 Projects
 
-### 🧺 Farmer Market Dashboard  
-**Power BI** | Seasonal trends, vendor performance, customer behavior  
-🔗 [View Project](https://github.com/shalinikumari37090-source/your-powerbi-repo)
+### 🧺 Farmer Market Dashboard  (https://github.com/shalinikumari37090-source/powerbi-sales-dashboard)  
+Interactive sales dashboard built in Power BI. Highlights filtering, drill-downs, and visual storytelling.
 
 ### 🐍 Pure Python Data Analysis  
-**Python (No Libraries)** | Logic-first workflows, data cleaning, transformation  
-🔗 [View Project](https://github.com/shalinikumari37090-source/Data-analysis-using-pure-Python)
+**Python (No Libraries)**
+### 🔹 [Analysis of CodeBook](https://github.com/shalinikumari37090-source/Data-analysis-using-pure-Python.git)
+Explore how different coder profiles influence data patterns and insights in this focused analysis made using pure Python and no fancy libraries.
 
 ### 🤖 ML Model Builder  
 **Python, scikit-learn** | End-to-end pipeline, performance metrics  
-🔗 [View Project](https://github.com/shalinikumari37090-source/your-ml-repo)
+🔗
+### 🔹 [CarDekho Car Price Prediction](https://github.com/shalinikumari37090-source/ml-models/tree/main/project_car_dekho)
+Linear Regression model to predict used car prices. Includes EDA, feature engineering, and performance metrics.
+
+### 🔹 [Car Price Prediction with Random Forest](https://github.com/shalinikumari37090-source/ml-models/tree/main/project_car_price)  
+Built a RandomForestRegressor model to estimate used car prices. Includes EDA, feature engineering, and performance evaluation.
+
+### 🔹 [House Price Prediction](https://github.com/shalinikumari37090-source/ml-models/tree/main/project_gurgaon)  
+Used Random Forest to estimate housing prices. Demonstrates preprocessing pipeline and model evaluation.
 
 ### 🧠 History & Geography Writing + Python Integration  
 **Creative + Technical** | Historical analysis with Python-based storytelling  
