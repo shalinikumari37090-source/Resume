@@ -1,5 +1,5 @@
 # Shalini Kumari  
-📍 Namkum, Jharkhand | 📧 shalini.email@example.com | 📞 +91-XXXXXXXXXX  
+📍 Ranchi, Jharkhand / Bolpur , West Bengal| 📧 shalinikumari37090@gmail.com.com | 📞 +91-8292155978 
 🔗 [GitHub](https://github.com/shalinikumari37090-source) | 💼 Aspiring Data Scientist | Fast Learner | Dashboard Designer
 
 ---
@@ -42,26 +42,24 @@ Enthusiastic and detail-oriented data analyst with hands-on experience in Python
 
 ## 📚 Education
 
-**Bachelor’s Degree (Your Major)**  
-Your University Name, Location  
-Expected Graduation: YYYY
+Bachelor’s Degree (History)**  
+ST. Xavier's College, Ranchi  
+Graduation completed : 2024
 
 ---
 
 ## 💼 Work Experience
 
 **Freelance Data Analyst & Contributor**  
-Jul 2023 – Sep 2023  
-- Contributed to AI model training and historical data analysis  
-- Received consistent 5-star feedback for responsiveness and quality
+While I may not have formal work experience yet, I bring a strong foundation in data analysis, Python programming, and dashboard design—built through hands-on projects and self-driven learning. I’m eager to apply my skills in real-world settings, collaborate with teams, and grow through meaningful challenges. Every opportunity is a chance to learn, contribute, and evolve into the data professional I aspire to be.
 
 ---
 
 ## 🏆 Certifications
 
 - Python for Data Science – [Code With Harry]  
-- Power BI Essentials – [Platform Name]  
-*(Add links if available)*
+- Power BI Essentials – [Code wize , Youtube.com]  
+*(certificates/The_Ultimate_Job_Ready_Data_Science_Course_Certificate.pdf)*
 
 ---
 
