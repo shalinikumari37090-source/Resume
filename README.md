@@ -22,7 +22,7 @@ Enthusiastic and detail-oriented data analyst with hands-on experience in Python
 
 ## 📊 Projects
 
-### 🧺 Farmer Market Dashboard  (https://github.com/shalinikumari37090-source/powerbi-sales-dashboard)  
+### 🔹 [Dashboard Design with Power BI](https://github.com/shalinikumari37090-source/powerbi-sales-dashboard)  
 Interactive sales dashboard built in Power BI. Highlights filtering, drill-downs, and visual storytelling.
 
 ### 🐍 Pure Python Data Analysis  
