@@ -1,5 +1,6 @@
 # Shalini Kumari  
-📍 Ranchi, Jharkhand / Bolpur , West Bengal| 📧 shalinikumari37090@gmail.com.com | 📞 +91-8292155978 
+📍 Ranchi, Jharkhand / Bolpur , West Bengal| 📧 shalinikumari37090@gmail.com.com | 📞 +91-8292155978
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/shalinikumari37090-source)
 🔗 [GitHub](https://github.com/shalinikumari37090-source) | 💼 Aspiring Data Scientist | Fast Learner | Dashboard Designer
 
 ---
