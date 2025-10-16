@@ -13,6 +13,11 @@ Enthusiastic and detail-oriented data analyst with hands-on experience in Python
 
 ## 🛠️ Technical Skills
 
+![Python](https://img.shields.io/badge/Python-Expert-informational?logo=python)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard_Designer-yellow?logo=powerbi)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Enthusiast-orange)
+![SQL](https://img.shields.io/badge/SQL-Data_Querying-blue)
+
 - **Languages & Tools**: Python, SQL, Power BI  
 - **Libraries**: NumPy, pandas, matplotlib, seaborn  
 - **Machine Learning**: Supervised & Unsupervised models, model building, basic neural networks  
