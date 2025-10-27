@@ -43,11 +43,11 @@ Explore how different coder profiles influence data patterns and insights in thi
 ### 🤖 ML Model Builder  
 **Python, scikit-learn** | End-to-end pipeline, performance metrics  
 🔗
-### 🔹 [Financial Analysis of Defaultees](https://github.com/shalinikumari37090-source/ml-models/tree/main/project_car_dekho)
-DecisionTreeClassifier model to predict the default risk of Consumers. Includes EDA, feature engineering, and performance metrics.
+### 🔹 [Car Price Prediction ](https://github.com/shalinikumari37090-source/ml-models/tree/main/project_car_dekho)
+Linear Regressor model to predict the default risk of Consumers. Includes EDA, feature engineering, and performance metrics.
 
-### 🔹 [CarDekho Car Price Prediction](https://github.com/shalinikumari37090-source/ml-models/tree/main/project_Finance)
-Linear Regression model to predict used car prices. Includes EDA, feature engineering, and performance metrics.
+### 🔹 [Financial Analysis of Defaultees](https://github.com/shalinikumari37090-source/ml-models/tree/main/project_Finance)
+DecisionTreeClassifier model to predict used car prices. Includes EDA, feature engineering, and performance metrics.
 
 ### 🔹 [Car Price Prediction with Random Forest](https://github.com/shalinikumari37090-source/ml-models/tree/main/project_car_price)  
 Built a RandomForestRegressor model to estimate used car prices. Includes EDA, feature engineering, and performance evaluation.
