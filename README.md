@@ -44,7 +44,10 @@ Explore how different coder profiles influence data patterns and insights in thi
 **Python, scikit-learn** | End-to-end pipeline, performance metrics  
 🔗
 ### 🔹 [Car Price Prediction ](https://github.com/shalinikumari37090-source/ml-models/tree/main/project_car_dekho)
-Linear Regressor model to predict the default risk of Consumers. Includes EDA, feature engineering, and performance metrics.
+Linear Regressor model to predict the car prices. Includes EDA, feature engineering, and performance metrics.
+
+### 🔹 [Bank Defaultees Classifier](https://github.com/shalinikumari37090-source/ml-models/tree/main/project_Finance)
+Decision Tree Classifier model to predict the default risk of Consumers. Includes EDA, feature engineering, and performance metrics.
 
 ### 🔹 [Financial Analysis of Defaultees](https://github.com/shalinikumari37090-source/ml-models/tree/main/project_Finance)
 DecisionTreeClassifier model to predict used car prices. Includes EDA, feature engineering, and performance metrics.
