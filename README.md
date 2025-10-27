@@ -44,6 +44,9 @@ Explore how different coder profiles influence data patterns and insights in thi
 **Python, scikit-learn** | End-to-end pipeline, performance metrics  
 🔗
 ### 🔹 [CarDekho Car Price Prediction](https://github.com/shalinikumari37090-source/ml-models/tree/main/project_car_dekho)
+DecisionTreeClassifier model to predict the default risk of Consumers. Includes EDA, feature engineering, and performance metrics.
+
+### 🔹 [CarDekho Car Price Prediction](https://github.com/shalinikumari37090-source/ml-models/tree/main/project_Finance)
 Linear Regression model to predict used car prices. Includes EDA, feature engineering, and performance metrics.
 
 ### 🔹 [Car Price Prediction with Random Forest](https://github.com/shalinikumari37090-source/ml-models/tree/main/project_car_price)  
