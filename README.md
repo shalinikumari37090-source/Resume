@@ -36,7 +36,7 @@ Enthusiastic and detail-oriented data analyst with hands-on experience in Python
 Interactive sales dashboard built in Power BI. Highlights filtering, drill-downs, and visual storytelling.
 
 ### 🐍 Pure Python Data Analysis  
-**Python (No Libraries)**
+
 ### 🔹 [Analysis of CodeBook](https://github.com/shalinikumari37090-source/Data-analysis-using-pure-Python.git)
 Explore how different coder profiles influence data patterns and insights in this focused analysis made using pure Python and no fancy libraries.
 
