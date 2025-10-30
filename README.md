@@ -58,6 +58,10 @@ Built a RandomForestRegressor model to estimate used car prices. Includes EDA, f
 ### 🔹 [House Price Prediction](https://github.com/shalinikumari37090-source/ml-models/tree/main/project_gurgaon)  
 Used Random Forest to estimate housing prices. Demonstrates preprocessing pipeline and model evaluation.
 
+### 🔹[Tsunami Prediction](https://github.com/shalinikumari37090-source/ml-models/tree/main/Tsumani_predict).
+Used Random Forest Classifier to classify the likelyness of Earthquake based on the features present .
+
+
 ### 🧠 History & Geography Writing + Python Integration  
 **Creative + Technical** | Historical analysis with Python-based storytelling  
 🔗 [View Project](https://github.com/shalinikumari37090-source/your-writing-repo)
