@@ -40,7 +40,7 @@ Interactive sales dashboard built in Power BI. Highlights filtering, drill-downs
 ### 🔹 [Analysis of CodeBook](https://github.com/shalinikumari37090-source/Data-analysis-using-pure-Python.git)
 Explore how different coder profiles influence data patterns and insights in this focused analysis made using pure Python and no fancy libraries.
 
-### 🤖 ML Model Builder(https://github.com/shalinikumari37090-source/ml-models.git)
+### 🤖 [ML Model Builder](https://github.com/shalinikumari37090-source/ml-models.git)
 **Python, scikit-learn** | End-to-end pipeline, performance metrics  
 🔗
 ### 🔹 [Car Price Prediction ](https://github.com/shalinikumari37090-source/ml-models/tree/main/project_car_dekho)
